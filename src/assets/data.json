@@ -1,0 +1,31 @@
+{
+    "places": [
+
+        {
+           "name": "Parque Zoológico Nacional",
+           "geometry":[
+            18.512406703934207, 
+            -69.92807444115066
+
+           ]
+        },
+
+        {
+"name": "Malecón de Santo Domingo",
+"geometry":[
+    18.458837902718074, 
+    -69.91748054662679
+
+]
+        },
+
+        {
+            "name": "CEDENSA - FAROLITO",
+            "geometry":[
+                18.486583748158907, 
+                -69.87140775175638
+            
+            ]
+                    }
+    ]
+}
